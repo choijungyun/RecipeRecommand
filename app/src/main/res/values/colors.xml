@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffffff</color>
+    <color name="colorPrimaryDark">#ffffff</color>
+    <color name="colorAccent">#f6b6b4</color>
+    <color name="pink">#fae7e7</color>
+    <color name="gray">#f9f7f7</color>
+    <color name="black">#990b0b0b</color>
+    <color name="trans">#00ffffff</color>
+
+    <color name="dietColor">#f6b6b4</color>
+</resources>

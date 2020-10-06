@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/dietColor"
+        android:orientation="horizontal">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="material"
+        android:textColor="#ffffff"
+        android:id="@+id/materialText"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_weight="1"
+        android:background="@color/dietColor"
+        android:textStyle="bold"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="1"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="8dp"
+            android:textColor="#ffffff"
+            android:textColorHint="#ffffff"
+            android:id="@+id/amountText"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="개"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="8dp"
+            android:textColor="#ffffff"
+            android:textColorHint="#ffffff"
+            android:id="@+id/unitText"/>
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/dietColor">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="구매날짜"
+            android:layout_gravity="center"
+            android:padding="3dp"
+            android:layout_marginLeft="8dp"
+            android:textColor="#ffffff"
+            android:textColorHint="#ffffff"
+            android:id="@+id/nameText"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="2017-01-01"
+            android:layout_gravity="center"
+            android:padding="3dp"
+
+            android:textColor="#ffffff"
+            android:textColorHint="#ffffff"
+            android:id="@+id/dateText"/>
+    </LinearLayout>
+
+</LinearLayout>

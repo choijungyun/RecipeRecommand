@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string-array name="sex">
+        <!--<item> </item>-->
+        <!--<item>  여성</item>>-->
+        <item>  남성</item>>
+    </string-array>>
+
+    <string-array name="recipelist">
+        <item>  가격순</item>>
+        <item>  건강순</item>>
+    </string-array>>
+
+    <string-array name="age">
+        <!--<item> </item>-->
+        <!--<item>  18</item>>-->
+        <!--<item>  19</item>>-->
+        <!--<item>  20</item>>-->
+        <!--<item>  21</item>>-->
+        <!--<item>  22</item>>-->
+        <!--<item>  23</item>>-->
+        <!--<item>  24</item>>-->
+        <item>  25</item>>
+        <item>  26</item>>
+        <item>  27</item>>
+        <item>  28</item>>
+        <item>  29</item>>
+        <item>  30</item>>
+    </string-array>>
+
+    <string-array name="activity">
+        <!--<item> </item>-->
+        <item>매우 활동적</item>>
+        <item>저활동적</item>>
+    </string-array>>
+
+    <string-array name="weight">
+        <!--<item> </item>-->
+        <!--<item>  45</item>>-->
+        <!--<item>  46</item>>-->
+        <!--<item>  47</item>>-->
+        <!--<item>  48</item>>-->
+        <!--<item>  49</item>>-->
+        <!--<item>  50</item>>-->
+        <!--<item>  51</item>>-->
+        <!--<item>  52</item>>-->
+        <!--<item>  53</item>>-->
+        <!--<item>  54</item>>-->
+        <!--<item>  55</item>>-->
+        <item>  56</item>>
+        <item>  57</item>>
+        <item>  58</item>>
+        <item>  59</item>>
+        <item>  60</item>>
+        <item>  61</item>>
+        <item>  62</item>>
+        <item>  63</item>>
+        <item>  64</item>>
+    </string-array>>
+
+    <string-array name="height">
+        <!--<item> </item>-->
+        <!--<item>  155</item>>-->
+        <!--<item>  156</item>>-->
+        <!--<item>  157</item>>-->
+        <!--<item>  158</item>>-->
+        <!--<item>  159</item>>-->
+        <!--<item>  160</item>>-->
+        <!--<item>  161</item>>-->
+        <!--<item>  162</item>>-->
+        <!--<item>  163</item>>-->
+        <!--<item>  164</item>>-->
+        <!--<item>  165</item>>-->
+        <!--<item>  166</item>>-->
+        <item>  167</item>>
+        <item>  168</item>>
+        <item>  169</item>>
+        <item>  170</item>>
+        <item>  171</item>>
+        <item>  172</item>>
+        <item>  173</item>>
+        <item>  174</item>>
+        <item>  175</item>>
+        <item>  176</item>>
+        <item>  177</item>>
+        <item>  178</item>>
+        <item>  179</item>>
+        <item>  180</item>>
+        <item>  181</item>>
+        <item>  182</item>>
+
+
+    </string-array>>
+    <string-array name="graduateMajor">
+        <item>가정교육과</item>
+        <item>교육학과</item>
+    </string-array>
+
+    <string-array name="universityRefinementMajor">
+        <item>교양1</item>
+        <item>교양2</item>
+    </string-array>
+
+    <string-array name="universityMajor">
+        <item>전공1</item>
+        <item>전공2</item>
+    </string-array>
+    <string-array name="year">
+        <item>2016년도</item>
+        <item>2017년도</item>
+    </string-array>
+
+    <string-array name="term">
+        <item>1학기</item>
+        <item>여름학기</item>
+        <item>2학기</item>
+        <item>겨울학기</item>
+    </string-array>
+    <string-array name="graduateArea">
+        <item>일반대학원</item>
+
+    </string-array>
+    <string-array name="universityArea">
+        <item>교양</item>
+        <item>전공</item>
+
+    </string-array>
+
+
+</resources>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.targetyou.recipe">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/logo"
+        android:hardwareAccelerated="false"
+        android:largeHeap="true"
+        android:supportsRtl="true"
+        android:configChanges="orientation|screenSize"
+        android:theme="@style/AppTheme">
+        <activity android:name=".CalendarActivity3" />
+        <activity android:name=".MainActivity" />
+        <activity android:name=".DetailActivity2" />
+        <activity android:name=".DetailActivity">
+
+        </activity>
+        <activity android:name=".SignUpActivity" />
+        <activity android:name=".RefrigeratorActivity" />
+        <activity android:name=".Ref_AddActivity" />
+        <activity android:name=".UserchoiceActivity" />
+        <activity android:name=".RecipelistActivity" />
+        <activity android:name=".RecipeActivity" />
+        <activity android:name=".StatisticsActivity" />
+        <activity android:name=".SignInActivity" >
+        <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
+
+            <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter>
+        </activity>
+        <activity android:name=".UserchoiceActivity2"/>
+        <activity android:name=".UserchoiceActivity3"/>
+        <activity android:name=".UserchoiceActivity4"/>
+        <activity android:name=".RecipelistActivity_2"/>
+        <activity android:name=".MaterialActivity"/>
+        <activity android:name=".CalendarActivity2"/>
+        <activity android:name=".calendarActivity4"/>
+        <activity android:name=".Ref_AddActivity2"/>
+
+        <activity android:name=".DietMainActivity"></activity>
+        <activity android:name=".DietWritingActivity" />
+        <activity android:name=".DietWritingActivity2"></activity>
+        <activity android:name=".DietWritingActivity3" />
+        <activity android:name=".DietFoodActivity" />
+        <activity android:name=".DietSearchActivity" />
+        <activity android:name=".DietSSTActivity" />
+        <activity android:name=".DietSSTStep1Activity" />
+        <activity android:name=".DietMainActivity2"></activity>
+        <activity android:name=".DietFoodRecommendActivity"></activity>
+        <activity android:name=".EditDetailActivity"></activity>
+        <activity android:name=".EditDetailActivity2"></activity>
+    </application>
+
+</manifest>
